@@ -1,2 +1,2 @@
-<h1>Learning Lab: Hammer JS and Carousel<h1>
-<p>The purpose of this repository is a learning lab using HammerJs in working component with Bootstrap Crousel. This was cloned using Boilerplate: CMO</p>
+<h1>Learning Lab: SnapJs<h1>
+<p>The purpose of this repository is a learning lab using Snap.Js. Boiler plate cloned from CMO</p>
